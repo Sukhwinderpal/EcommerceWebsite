@@ -1,6 +1,5 @@
 {
   "name": "redux-store",
-  "homepage": "https://Sukhwinderpal.github.io/EcommerceWebsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
